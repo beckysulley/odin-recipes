@@ -1,0 +1,71 @@
+#nav a {
+    color: white;
+}
+
+#header {
+    background-color: #264653;
+    color: #e9c46a;
+    font-family: 'Poppins', Helvetica, sans-serif;
+    font-size: 30px;
+    line-height: 50px;
+    padding: 10px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+#footer {
+    background-color: #264653;
+    color: #e9c46a;
+    font-family: 'Poppins', Helvetica, sans-serif;
+    font-size: 30px;
+    line-height: 50px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#recipe {
+    background-color: #264653;
+    color: #e9c46a;
+    font-family: 'Poppins', Helvetica, sans-serif;
+    font-size: 30px;
+    line-height: 50px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#list {
+    background-color: #edf2f4;
+    color: #264653;
+    font-family: 'Poppins', Helvetica, sans-serif;
+    font-size: 30px;
+    line-height: 50px;
+    padding: 10px;
+}
+
+.subhead {
+    font-size: 30px;
+    color: #e76f51;
+    text-decoration: underline wavy #264653 3px;
+    text-underline-offset: 5px;
+}
+
+p,
+.copy {
+    font-size: 20px;
+}
+
+body {
+    background-color: #edf2f4;
+}
+
+a {
+    color: #264653;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #e76f51;
+    color: white;
+    text-decoration: none;
+}
